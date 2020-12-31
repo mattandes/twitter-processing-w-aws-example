@@ -1,0 +1,7 @@
+.terraform
+*.tfstate*
+backend.tf
+**/.terraform.d/
+.terragrunt-cache
+**builds/
+output.log

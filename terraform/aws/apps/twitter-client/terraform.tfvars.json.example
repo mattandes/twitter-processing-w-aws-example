@@ -1,0 +1,6 @@
+{
+	"twitter_access_token": "<your twitter access token",
+	"twitter_access_token_secret": "<your twitter access token secret",
+	"twitter_consumer_key": "<your twitter consumer key>",
+	"twitter_consumer_secret": "<your twitter consumer secret"
+}
